@@ -29,7 +29,7 @@ Access the pre-trained model we used via this [link](https://www.kaggle.com/mode
 
 <p align='justify'>
 
-To see how we built the model, take a look at the jupyter notebook file in the **notebook folder** in this repository. To obtain the model in h5 format, open the model.md file and click "here", you will be directed to Google Drive, where the model is stored.
+To see how we built the model, take a look at the jupyter notebook file in the **notebook-file folder** in this repository. To obtain the model in h5 format, open the model.md file and click "here", you will be directed to Google Drive, where the model is stored.
 
 
 
