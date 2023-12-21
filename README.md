@@ -2,7 +2,7 @@
 
 # Dataset
 
-<img src="https://github.com/Diagnofish/machine-learning/assets/108395348/d5c158c9-e65d-4fdb-b152-099bf2feb0f0" alt="fish_image" width="600" height="auto">
+<img src="https://github.com/Diagnofish/machine-learning/assets/108395348/d5c158c9-e65d-4fdb-b152-099bf2feb0f0" alt="fish_image" width="700" height="auto">
 
 
 The dataset we use is from [Kaggle: Freshwater Fish Disease Aquaculture in south asia](https://www.kaggle.com/datasets/subirbiswas19/freshwater-fish-disease-aquaculture-in-south-asia/data) 
@@ -28,6 +28,7 @@ We developed a multiclass classification model by leveraging the MobileNet archi
 Access the pre-trained model we used via this [link](https://www.kaggle.com/models/google/mobilenet-v2/frameworks/TensorFlow2/variations/140-224-feature-vector/versions/2). 
 
 <p align='justify'>
+
 To see how we built the model, take a look at the jupyter notebook file in the **notebook folder** in this repository. To obtain the model in h5 format, open the model.md file and click "here", you will be directed to Google Drive, where the model is stored.
 
 
